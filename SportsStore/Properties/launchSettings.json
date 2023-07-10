@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SportsStore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
